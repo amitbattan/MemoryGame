@@ -10,10 +10,10 @@
 
 - MVVM Architecture
 - Unit Test
-* Unit test cases for main model class (CardGameViewModel)
-* Use Mocks in unit test cases
-* Unit test for actual game (with shuffle the cards)
-* Unit test for mock game (without shuffle the cards)
+    - Unit test cases for main model class (CardGameViewModel)
+    - Use Mocks in unit test cases
+    - Unit test for actual game (with shuffle the cards)
+    - Unit test for mock game (without shuffle the cards)
 - Autolayout
 - Core Data for local storage, save game score along with player name
 - Show player rank after each game
@@ -22,5 +22,5 @@
 
 - UITests - can add UI test cases 
 - Game setting 
-* Can add setting like player name, sound on/off.
-* Different playing options like match colour, alphabets, shapes, fruits, animals.
+    - Can add setting like player name, sound on/off.
+    - Different playing options like match colour, alphabets, shapes, fruits, animals.
