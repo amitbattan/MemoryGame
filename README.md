@@ -24,3 +24,10 @@
 - Game setting 
     - Can add setting like player name, sound on/off.
     - Different playing options like match colour, alphabets, shapes, fruits, animals.
+    
+
+## Application look like as below screenshots:
+
+![Demo Screensho 1](https://github.com/amitbattan/MemoryGame/blob/master/demo/demo.png?raw=true)
+![Demo Screensho 1](https://github.com/amitbattan/MemoryGame/blob/master/demo/demo-1.png?raw=true)
+
